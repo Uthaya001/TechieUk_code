@@ -1,0 +1,26 @@
+z1
+import java.util.*;
+class z1
+{
+    public static void main[String[] args]{
+            int[] nums=new int[10];
+        HashSet<Integer> h=new HashSet<>();
+        ArrayList<Integer> l=new ArrayList<>();
+
+        for(int i:nums){
+            while(i>0){
+                int t=i%10;
+                h.add(t);
+                i/=10;
+            }
+        }
+        l.addAll(h);
+        int[] arr=new int[l.size()];
+        for(int j=0;j<l.size();j++){
+            arr[j]=l.get(j);
+
+        }
+        Arrays.sort(arr);
+    }
+}
+

@@ -1,0 +1,26 @@
+// specfic sort in even and odd
+
+
+import java.util.*;
+public class Z3 {
+    public static void main(String[] args) {
+
+        int arr[]={1,2,3,4,5,6,7};
+        int k=0;
+        for(int i:arr){
+            if(i%2!=0){
+                arr[k]=arr[k]*-1;
+            }
+            k++;
+        }
+        Arrays.sort(arr);
+        int j=0;
+        for(int i:arr){
+            if(i%2!=0){
+                arr[j]=arr[j]*-1;
+        }
+        j++;}
+     for(int i:arr){
+         System.out.print(i+" ");
+     }
+}}

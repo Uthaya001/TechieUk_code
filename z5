@@ -30,7 +30,7 @@ public class GfG{
         }
     }
     
-    // driver function 
+    
     public static void main(String argc[]){
         int amount = 868;
         countCurrency(amount);

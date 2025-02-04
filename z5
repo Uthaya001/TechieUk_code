@@ -36,5 +36,5 @@ public class GfG{
         countCurrency(amount);
     }
     
-    /* This code is contributed by Sagar Shukla */
+    
 }

@@ -5,7 +5,7 @@ import java.lang.*;
 
 public class GfG{
 
-    // function to count and 
+    
     
     public static void countCurrency(int amount)
     {

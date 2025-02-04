@@ -1,5 +1,4 @@
-// Java program to accept an amount
-// and count number of notes
+
 import java.util.*;
 import java.lang.*;
 

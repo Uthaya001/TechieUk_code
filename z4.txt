@@ -1,4 +1,4 @@
-// specfic sort in even and odd.
+// specfic sort in even and odd
 
 
 import java.util.*;

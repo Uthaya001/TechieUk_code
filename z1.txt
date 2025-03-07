@@ -12,7 +12,7 @@ class z1
                 int t=i%10;
                 h.add(t);
                 i/=10;
-            }
+            
         }
         l.addAll(h);
         int[] arr=new int[l.size()];

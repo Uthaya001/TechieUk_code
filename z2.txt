@@ -15,6 +15,6 @@ class Solution {
              l.add(arr[fir++]);
         }
         return l;
-        
+        //-+
     }
 }

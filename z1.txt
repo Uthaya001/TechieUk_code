@@ -1,6 +1,6 @@
 z1
 import java.util.*;
-class z
+class z1
 {
 
     public static void main[String[] args]{

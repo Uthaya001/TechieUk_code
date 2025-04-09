@@ -1,4 +1,4 @@
-z1
+z
 import java.util.*;
 class z1
 {

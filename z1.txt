@@ -1,5 +1,5 @@
 z1
-import java.util.*;
+import java.util.*
 class z1
 {
 

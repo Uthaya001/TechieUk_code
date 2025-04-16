@@ -21,7 +21,7 @@ class z1
             arr[j]=l.get(j);
 
         }
-        Arrays.sort(arr); //
+        Arrays.sort(arr); 
     }
 }
 

@@ -18,7 +18,7 @@ class z1
         l.addAll(h);
         int[] arr=new int[l.size()];
         for(int j=0;j<l.size();j++){
-            arr[j]=l.get(j);
+            arr[j]=l.get(j); //
 
         }
         Arrays.sort(arr); 

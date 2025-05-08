@@ -13,7 +13,7 @@ class z1
         for(int i:nums){
             while(i>0){
                 int t=i%10;
-                h.add(t); -lll
+                h.add(t); 
                 i/=10;
             
         }

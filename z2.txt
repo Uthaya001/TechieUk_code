@@ -2,7 +2,7 @@ class Solution {
   public static ArrayList<Integer> alternateSort(int[] arr) {
 
         ArrayList<Integer> l=new ArrayList<>();
-        int fir=0;
+       int fir=0;
         int lss=arr.length-1;
         Arrays.sort(arr);
         while(fir<=lss){

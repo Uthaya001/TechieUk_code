@@ -21,7 +21,8 @@ public class Z3 {
                 arr[j]=arr[j]*-1;
         }
         j++;}
-     for(int i:arr){
+       for(int i:arr){
+
          System.out.print(i+" ");
      }
 }}

@@ -5,6 +5,7 @@ class Solution {
        int fir=0;
         int lss=arr.length-1;
         Arrays.sort(arr);
+
         while(fir<=lss){
             if(fir==lss){
                 l.add(arr[fir]);

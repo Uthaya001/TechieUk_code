@@ -20,7 +20,6 @@ public class Z3 {
         }
         j++;}
        for(int i:arr){
-
          System.out.print(i+" ");
      }
 }}

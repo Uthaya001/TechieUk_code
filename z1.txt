@@ -4,7 +4,6 @@ class z1
 {
     public static void main[String[] args]
            int[] nums=new int[10];
-
         HashSet<Integer> h=new HashSet<>();
         ArrayList<Integer> l=new ArrayList<>();
         for(int i:nums){

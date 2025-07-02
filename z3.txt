@@ -7,7 +7,6 @@ public class Z3 {
         int k=0;
         for(int i:arr){
 
-
             if(i%2!=0){
                 arr[k]=arr[k]*-1;
 

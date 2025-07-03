@@ -6,7 +6,7 @@ class Solution {
 
         Arrays.sort(arr);
 
-        while(fir<=lss){
+        while(fir<=lss){a
 
             if(fir==lss){
 

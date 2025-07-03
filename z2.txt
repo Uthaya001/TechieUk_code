@@ -8,6 +8,7 @@ class Solution {
         while(fir<=lss){
             if(fir==lss){
 
+
                 l.add(arr[fir]);
                 break;
             }

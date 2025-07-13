@@ -11,7 +11,6 @@ public class Z3 {
                 arr[k]=arr[k]*-1;
 
             }
-
             k++;
         }
         Arrays.sort(arr);

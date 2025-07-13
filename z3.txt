@@ -9,7 +9,6 @@ public class Z3 {
 
             if(i%2!=0){
                 arr[k]=arr[k]*-1;
-
             }
             k++;
         }

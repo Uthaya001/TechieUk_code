@@ -16,6 +16,7 @@ public class Z3 {
         for(int i:arr){
             if(i%2!=0){
                 arr[j]=arr[j]*-1;
+
         }
         j++;}
      for(int i:arr){

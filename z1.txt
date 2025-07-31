@@ -12,8 +12,7 @@ class z1
                 h.add(t); 
                 i/=10;          
   }
-
-        l.addAll(h);
+       l.addAll(h);
         int[] arr=new int[l.size()];
         for(int j=0;j<l.size();j++){
             arr[j]=l.get(j); 

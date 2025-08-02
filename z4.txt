@@ -13,6 +13,7 @@ public class Z3 {
 l
 
 
+
         Arrays.sort(arr);
         int j=0;
         for(int i:arr){

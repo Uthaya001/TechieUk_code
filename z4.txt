@@ -10,7 +10,6 @@ public class Z3 {
             }
             k++;
         }
-
 l
         Arrays.sort(arr);
         int j=0;

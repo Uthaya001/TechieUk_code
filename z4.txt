@@ -9,8 +9,7 @@ public class Z3 {
                 arr[k]=arr[k]*-1;
             }
             k++;
-        }
-l
+        }}
         Arrays.sort(arr);
         int j=0;
         for(int i:arr){
@@ -21,6 +20,7 @@ l
          System.out.print(i+" ");
      }
 }}
+
 
 
 

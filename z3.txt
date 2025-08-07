@@ -8,10 +8,6 @@ public class Z3 {
         for(int i:arr){
             if(i%2!=0){
                 arr[k]=arr[k]*-1;
-
-
-
-
             }
             k++;
         }

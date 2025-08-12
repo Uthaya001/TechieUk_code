@@ -13,7 +13,6 @@ class Solution {
             l.add(arr[lss--]);
              l.add(arr[fir++]);
         }
-
         return l;
         //-+
     }
